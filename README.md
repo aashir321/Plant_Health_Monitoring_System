@@ -122,7 +122,6 @@ Plant_Health_Monitoring_System/
 │
 ├── Plant_Health_Monitoring_System.ino
 ├── Plant Health Monitoring System.png
-├── Plant Health Monitoring System Report.docx
 └── README.md
 ```
 
